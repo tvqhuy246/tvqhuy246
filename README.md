@@ -18,10 +18,10 @@
 
 <h3 align="center">🤝 Connect with Me</h3>
 <p align="center">
-  <a href="https://github.com/USERNAME" target="_blank">
+  <a href="https://github.com/tvqhuy246" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:voquanghuyt@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -57,9 +57,9 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tvqhuy246&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tvqhuy246&theme=tokyonight" />
 </p>
