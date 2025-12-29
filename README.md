@@ -57,21 +57,15 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=tvqhuy246&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=tvqhuy246&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
     height="165"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=tvqhuy246&theme=github-dark&hide_border=true"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvqhuy246&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"
+    height="140"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvqhuy246&layout=compact&theme=github_dark&hide_border=true"
-    height="150"
-  />
-</p>
