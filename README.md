@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Huy</h1>
 <h3 align="center">Software Developer from 🇻🇳 Vietnam</h3>
 
@@ -27,7 +28,7 @@
 </p>
 
 <br/>
-
+<img width="1918" height="1078" alt="Google_cloud_cyber_security_certifications_TranVoQuangHuy" src="https://github.com/user-attachments/assets/b727b71f-387c-4850-8aca-35bd76b20dbb" />
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
