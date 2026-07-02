@@ -22,12 +22,13 @@
     <td width="55%" valign="top">
       <h3>🧑‍💻 About Me</h3>
       <p>
-        I'm a backend and mobile developer focusing on building robust automation systems, implementing AI/Computer Vision solutions, and crafting smooth mobile applications.
+        I'm a software developer focusing on building robust automation systems, implementing AI/Computer Vision solutions, and crafting secure full-stack applications.
       </p>
       <ul>
-        <li>🔭 <strong>Active Stack:</strong> Daily developing with <b>Python, Flutter, and Docker</b>.</li>
+        <li>🚀 <strong>Current Project:</strong> Developing <b>HuyScan</b> – a distributed, AI-powered malware analysis and security risk assessment platform.</li>
+        <li>🔭 <strong>Active Stack:</strong> Daily developing with <b>Python, Flutter, Docker, React, and Flask</b>.</li>
         <li>🌱 <strong>Currently Learning:</strong> Deep diving into <b>Computer Vision & System Design</b>.</li>
-        <li>⚡ <strong>Interests:</strong> Intelligent automation, secure backend systems, and AI agent architectures.</li>
+        <li>⚡ <strong>Interests:</strong> Cybersecurity, automation, AI agents, and secure cloud/backend architectures.</li>
       </ul>
       <br/>
       <h3>🤝 Connect with Me</h3>
@@ -62,6 +63,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   </p>
@@ -70,14 +72,19 @@
   <p>
     <strong>Frameworks & Platforms:</strong><br/>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   </p>
 
   <!-- DevOps & Infrastructure & Databases -->
   <p>
-    <strong>DevOps, Databases & Servers:</strong><br/>
+    <strong>DevOps, Databases & Infrastructure:</strong><br/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
