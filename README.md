@@ -78,12 +78,7 @@
 
 <br/>
 
-<!-- GitHub Stats Section -->
-<h3 align="center">📊 GitHub Statistics</h3>
-<p align="center">
-  <a href="https://github.com/tvqhuy246">
-    <img src="https://github-readme-stats.vercel.app/api?username=tvqhuy246&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175" alt="GitHub Stats" />
-  </a>
+
   <a href="https://github.com/tvqhuy246">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=tvqhuy246&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
   </a>
