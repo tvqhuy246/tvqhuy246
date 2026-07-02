@@ -1,6 +1,3 @@
-<!-- Dynamic Capsule Banner -->
-
-
 <!-- Subtitle & Quick Badges -->
 <h2 align="center">👋 Hello, I'm Huy</h2>
 <p align="center">
@@ -78,7 +75,8 @@
 
 <br/>
 
-
+<!-- GitHub Stats Section -->
+<p align="center">
   <a href="https://github.com/tvqhuy246">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=tvqhuy246&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
   </a>
