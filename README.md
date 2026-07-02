@@ -1,7 +1,5 @@
 <!-- Dynamic Capsule Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=Tran%20Vo%20Quang%20Huy&fontSize=50&animation=scaleIn&theme=tokyonight" width="100%" alt="Header Banner" />
-</p>
+
 
 <!-- Subtitle & Quick Badges -->
 <h2 align="center">👋 Hello, I'm Huy</h2>
