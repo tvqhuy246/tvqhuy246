@@ -36,13 +36,7 @@
         </a>
       </p>
     </td>
-    <td width="45%" align="center" valign="middle">
-      <a href="https://github.com/tvqhuy246">
-        <img src="https://github.com/user-attachments/assets/b727b71f-387c-4850-8aca-35bd76b20dbb" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);" alt="Google Cloud Cybersecurity Certification" />
-      </a>
-      <br/>
-      <sub>🏆 Google Cloud Cybersecurity Certification</sub>
-    </td>
+
   </tr>
 </table>
 
