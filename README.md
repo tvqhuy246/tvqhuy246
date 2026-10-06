@@ -1,8 +1,16 @@
-<!-- Header & Hero Section -->
+<!-- Header Banner (Hiệu ứng lượn sóng động Waving) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9&height=180&section=header&text=Tran%20Vo%20Quang%20Huy&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20•%20Cybersecurity%20•%20AI%20Solutions&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9&height=180&section=header&text=Tran%20Vo%20Quang%20Huy&fontSize=42&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 
+<!-- Typewriter Animation (Hiệu ứng gõ chữ tự động chạy lặp) -->
+<p align="center">
+  <a href="https://github.com/tvqhuy246">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=660&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;Building+Modern+Web%2C+Desktop+%26+Mobile+Applications+%F0%9F%92%BB;Architecting+Robust+Microservices+%26+Secure+Backends+%E2%9A%99%EF%B8%8F;Hardening+Systems+with+EDR+%26+Malware+Analysis+%F0%9F%9B%A1%EF%B8%8F;Empowering+Products+with+AI%2C+RAG+%26+Computer+Vision+%F0%9F%A7%A0" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Quick Contact & Profile Badges -->
 <p align="center">
   <a href="mailto:voquanghuyt@gmail.com">
     <img src="https://img.shields.io/badge/Email-voquanghuyt%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -14,7 +22,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Systems%20%26%20Security%20Engineering-8A2BE2?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-0ea5e9?style=flat-square&logo=codeforces&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Expertise-Frontend%20•%20Backend%20•%20Security%20•%20AI-8A2BE2?style=flat-square" alt="Expertise" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=flat-square" alt="Status" />
 </p>
 
@@ -22,12 +31,12 @@
 
 ### 👨💻 About Me
 
-I am a Software Developer with a strong focus on **secure backend architectures**, **distributed systems**, and **cybersecurity automation**. With hands-on experience spanning enterprise system development, threat detection engines, and AI/LLM integrations, I prioritize clean architecture, performant code, and practical security hardening.
+I am a **Full-Stack Software Engineer** passionate about building end-to-end applications from intuitive, responsive user interfaces to robust, secure distributed backends. My background spans developing enterprise management platforms, threat intelligence & EDR systems, and AI-powered solutions.
 
-- 🛡️ **Cybersecurity & Threat Analysis:** Specialized in static/dynamic malware triage, custom YARA heuristics, isolated sandbox environments, and Windows ETW-based EDR telemetry.
-- ⚙️ **Backend & System Design:** Experienced in designing scalable RESTful APIs, Microservices, and background task processing using **Java (Spring Boot)**, **Python (Flask / Celery)**, and **Node.js (Express)**.
-- 🤖 **AI & Automation:** Skilled in practical AI applications, including **Retrieval-Augmented Generation (RAG)**, LLM fine-tuning, and **Computer Vision** (OpenCV, YOLO).
-- 🚀 **Target Roles:** Backend Engineer, Software Engineer, Security/SecOps Developer, Full-Stack Developer.
+- 💻 **Frontend & Client Development:** Crafting modern web dashboards with **React, TypeScript, Vite, Tailwind CSS**, desktop companion tools via **Electron**, and cross-platform mobile apps with **Flutter**.
+- ⚙️ **Backend & Architecture:** Designing high-throughput REST APIs, **Microservices**, and background task queues utilizing **Java (Spring Boot 3)**, **Python (Flask, Celery, Redis)**, and **Node.js (Express)**.
+- 🛡️ **Security-First Mindset:** Incorporating cybersecurity best practices, static/dynamic malware triage (YARA, Nmap, isolated sandboxes), and Windows ETW endpoint telemetry.
+- 🤖 **AI & Applied Automation:** Integrating practical AI capabilities including **RAG (Retrieval-Augmented Generation)**, model fine-tuning, and **Computer Vision** (OpenCV, YOLO).
 
 ---
 
@@ -35,19 +44,32 @@ I am a Software Developer with a strong focus on **secure backend architectures*
 
 | Project | Highlights & Architecture | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **🛡️ HuyScan**<br/>*(Malware Analysis & EDR Platform)* | • Distributed multi-tiered architecture with Flask scan engine and React/Electron desktop agent.<br/>• Real-time threat detection using custom YARA rules, Nmap service vulnerability mapping, and ETW telemetry.<br/>• Isolated virtual sandbox execution and asynchronous queuing with Celery & Redis. | `Python` `Flask` `Celery` `Redis` `PostgreSQL` `Electron` `React` `Docker` | [**Code**](https://github.com/tvqhuy246/scanmalware) |
-| **🏛️ KPI Management Platform**<br/>*(Ban Tổ chức Tỉnh ủy)* | • Enterprise digital transformation software for civil servant performance assessment.<br/>• 3-tier Role-Based Access Control (RBAC), strict audit logging, and automated scoring algorithms.<br/>• Clean layered MVC architecture with relational schema optimization. | `Java` `Spring Boot 3` `Spring Data JPA` `PostgreSQL` `Thymeleaf` `Chart.js` | [**Code**](https://github.com/tvqhuy246/KPI_BanToChuc_TinhUy) |
-| **📦 Warehouse Management System**<br/>*(Microservices WMS)* | • High-concurrency logistics platform designed with independent Microservices.<br/>• Central API Gateway orchestrating Auth, Inventory, Product, and Inbound/Outbound operations.<br/>• Containerized deployment with Docker Compose. | `Node.js` `Express` `Microservices` `MySQL` `React` `Docker` | [**Code**](https://github.com/tvqhuy246/Warehouse-management-system) |
-| **🧠 Internal Knowledge Chatbot**<br/>*(RAG & LLM Assistant)* | • Intelligent document retrieval assistant leveraging Retrieval-Augmented Generation (RAG).<br/>• Semantic search with vector embeddings, query routing, and model fine-tuning experiments for context-accurate answers. | `TypeScript` `Python` `LangChain` `Vector DB` `LLM Fine-tuning` | [**Code**](https://github.com/tvqhuy246/internalknowledgechatbot) |
-| **👁️ Automatic Number Plate Recognition**<br/>*(Computer Vision)* | • Real-time vehicle license plate detection and character recognition system.<br/>• Image preprocessing pipelines, contour filtering, and OCR inference. | `Python` `OpenCV` `Deep Learning` `OCR` | [**Code**](https://github.com/tvqhuy246/nhandienbiensoxe) |
+| **🛡️ HuyScan**<br/>*(Malware Analysis & EDR Platform)* | • **Full-Stack Security Suite:** Decoupled architecture featuring an Electron + React desktop agent, real-time SOC web dashboard, and Flask scanner engine.<br/>• **Threat Engine:** Heuristic static scanning with custom YARA rules, automated Nmap vulnerability mapping, and ETW telemetry monitoring.<br/>• **Asynchronous Execution:** Celery + Redis worker queues with isolated virtual sandbox execution. | `React` `TypeScript` `Electron` `Python` `Flask` `Celery` `PostgreSQL` `Docker` | [**Code**](https://github.com/tvqhuy246/scanmalware) |
+| **🏛️ KPI Management Platform**<br/>*(Ban Tổ chức Tỉnh ủy)* | • **Enterprise System:** Full-stack digital transformation portal for civil servant evaluation and scoring.<br/>• **Layered Architecture:** 3-tier Role-Based Access Control (RBAC), audit logging, and automated metric scoring algorithms.<br/>• **Responsive UI:** Interactive data visualization with Thymeleaf and Chart.js. | `Java` `Spring Boot 3` `Spring Data JPA` `PostgreSQL` `Thymeleaf` `Chart.js` | [**Code**](https://github.com/tvqhuy246/KPI_BanToChuc_TinhUy) |
+| **📦 Warehouse Management System**<br/>*(Microservices WMS)* | • **Distributed Microservices:** Architecture with a central API Gateway routing to independent Auth, Inventory, Product, and In/Outbound services.<br/>• **Interactive Dashboard:** Complete React management interface with inventory analytics and audit flows.<br/>• **DevOps:** Fully containerized multi-container setup via Docker Compose. | `React` `Vite` `Node.js` `Express` `Microservices` `MySQL` `Docker` | [**Code**](https://github.com/tvqhuy246/Warehouse-management-system) |
+| **🧠 Internal Knowledge Chatbot**<br/>*(RAG & LLM Assistant)* | • **AI Knowledge Retrieval:** End-to-end intelligent assistant utilizing Retrieval-Augmented Generation (RAG) and model fine-tuning.<br/>• **Vector Search:** Document chunking, semantic vector embeddings, and LLM orchestration for precise question-answering. | `TypeScript` `Python` `LangChain` `Vector DB` `LLM Fine-tuning` | [**Code**](https://github.com/tvqhuy246/internalknowledgechatbot) |
+| **👁️ Automatic Number Plate Recognition**<br/>*(Computer Vision)* | • **Computer Vision Pipeline:** Real-time vehicle license plate detection and character OCR recognition.<br/>• Preprocessing pipelines, edge detection, contour filtering, and deep learning character extraction. | `Python` `OpenCV` `Deep Learning` `OCR` | [**Code**](https://github.com/tvqhuy246/nhandienbiensoxe) |
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Capabilities
 
 <table>
   <tr>
-    <td width="22%"><b>Backend & APIs</b></td>
+    <td width="22%"><b>Frontend & Clients</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & APIs</b></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
@@ -65,23 +87,12 @@ I am a Software Developer with a strong focus on **secure backend architectures*
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Frontend & Clients</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Security & Ops</b></td>
+    <td><b>Cybersecurity & Infra</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
@@ -92,11 +103,11 @@ I am a Software Developer with a strong focus on **secure backend architectures*
     </td>
   </tr>
   <tr>
-    <td><b>AI & Computer Vision</b></td>
+    <td><b>AI & Data</b></td>
     <td>
       <img src="https://img.shields.io/badge/RAG_Architecture-7A04EB?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Fine--Tuning-008080?style=flat-square&logo=meta&logoColor=white" />
+      <img src="https://img.shields.io/badge/LLM_Fine--Tuning-008080?style=flat-square&logo=meta&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -117,5 +128,5 @@ I am a Software Developer with a strong focus on **secure backend architectures*
 ---
 
 <p align="center">
-  <em>💡 "Striving to build scalable, resilient, and secure software solutions that make an impact."</em>
+  <em>⚡ "Committed to delivering scalable end-to-end architectures with security and performance at the core."</em>
 </p>
